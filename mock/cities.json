@@ -1,6 +1,14 @@
 [
-  { "id": "1", "value": "New York" },
-  { "id": "2", "value": "Los Angeles" },
-  { "id": "3", "value": "London" },
-  { "id": "4", "value": "Sydney" }
+  { "id": "1", "stateId": "1", "value": "New York City" },
+  { "id": "2", "stateId": "1", "value": "Buffalo" },
+  { "id": "3", "stateId": "2", "value": "Los Angeles" },
+  { "id": "4", "stateId": "2", "value": "San Francisco" },
+  { "id": "5", "stateId": "3", "value": "Toronto" },
+  { "id": "6", "stateId": "3", "value": "Ottawa" },
+  { "id": "7", "stateId": "4", "value": "Montreal" },
+  { "id": "8", "stateId": "4", "value": "Quebec City" },
+  { "id": "9", "stateId": "5", "value": "Sydney" },
+  { "id": "10", "stateId": "5", "value": "Melbourne" },
+  { "id": "11", "stateId": "6", "value": "Mumbai" },
+  { "id": "12", "stateId": "6", "value": "Lucknow" }
 ]

@@ -1,0 +1,14 @@
+[
+  { "id": "1", "stateId": "1", "value": "10001" },
+  { "id": "2", "stateId": "1", "value": "10002" },
+  { "id": "3", "stateId": "2", "value": "90001" },
+  { "id": "4", "stateId": "2", "value": "90002" },
+  { "id": "5", "stateId": "3", "value": "M5B 1X2" },
+  { "id": "6", "stateId": "3", "value": "K1A 0B1" },
+  { "id": "7", "stateId": "4", "value": "H2Y 1C6" },
+  { "id": "8", "stateId": "4", "value": "G1A 1A1" },
+  { "id": "9", "stateId": "5", "value": "2000" },
+  { "id": "10", "stateId": "5", "value": "3000" },
+  { "id": "11", "stateId": "6", "value": "400001" },
+  { "id": "12", "stateId": "6", "value": "226001" }
+]

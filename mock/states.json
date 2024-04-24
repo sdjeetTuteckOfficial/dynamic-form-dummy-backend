@@ -1,0 +1,14 @@
+[
+  { "id": "1", "countryId": "1", "value": "New York" },
+  { "id": "2", "countryId": "1", "value": "California" },
+  { "id": "3", "countryId": "2", "value": "Ontario" },
+  { "id": "4", "countryId": "2", "value": "Quebec" },
+  { "id": "5", "countryId": "3", "value": "New South Wales" },
+  { "id": "6", "countryId": "3", "value": "Victoria" },
+  { "id": "7", "countryId": "4", "value": "Berlin" },
+  { "id": "8", "countryId": "4", "value": "Bavaria" },
+  { "id": "9", "countryId": "5", "value": "Tokyo" },
+  { "id": "10", "countryId": "5", "value": "Osaka" },
+  { "id": "11", "countryId": "6", "value": "Maharashtra" },
+  { "id": "12", "countryId": "6", "value": "Uttar Pradesh" }
+]
